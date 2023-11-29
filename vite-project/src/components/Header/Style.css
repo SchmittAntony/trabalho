@@ -1,0 +1,47 @@
+/* Style.css */
+.header {
+  background-color: #333; 
+  color: #fff;
+  padding: 20px; 
+  margin: 0;
+  position: fixed; /* Adicionando para fixar o header */
+  top: 0; /* Fixando no topo */
+  width: 100%; /* Ocupando toda a largura */
+  z-index: 1000; /* Certificando-se de que está acima do conteúdo */
+}
+
+.header-content {
+  display: flex;
+  align-items: center; 
+}
+
+.h1 {
+  margin: 0;
+  font-size: 24px;
+  margin-right: 200px;
+}
+
+.h1:hover {
+  color: #ffcc00;
+  cursor: pointer;
+}
+
+.ul {
+  list-style: none; 
+  padding: 0; 
+  display: flex; 
+}
+
+.li {
+  margin-right: 100px; 
+  transition: color 0.3s ease;
+}
+
+.li:hover {
+  color: #ffcc00;
+  cursor: pointer;
+}
+
+main {
+  padding-top: 8px; 
+}

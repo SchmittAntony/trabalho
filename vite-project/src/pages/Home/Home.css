@@ -1,0 +1,43 @@
+
+.main-home {
+    padding: 20px;
+    background-color: #e7c0c0;
+    border-radius: 5px;
+  }
+  
+
+  #Portifolio {
+    /* Definir altura ideal para a página */
+    min-height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+  
+    /* Estilo do fundo com degradê */
+    background: linear-gradient(to bottom, #ff8a00, #da1b60); /* Exemplo de degradê */
+    color: #fff; /* Cor do texto para melhorar a legibilidade */
+  }
+
+  .div_home {
+    text-align: center;
+    margin-bottom: 100px;
+  }
+
+  .h2_meu_nome {
+    font-size: 80px;
+  }
+
+  .p_sobre_min {
+    font-size: 32px;
+  }
+
+  .div_text {
+    border: 3px solid black;
+    padding: 10px;
+    width: 80%;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+  }
+
+  

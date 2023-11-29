@@ -1,0 +1,29 @@
+.main-react{
+    padding: 20px;
+    background-color: #ad2f2f;
+    border-radius: 5px;
+  }
+  
+  .main-content h2 {
+    margin-top: 0;
+    color: #007acc;
+  }
+  
+  #React {
+    /* Definir altura ideal para a página */
+    min-height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+  
+    /* Estilo do fundo com degradê */
+    background: linear-gradient(to bottom, #e040fb, #2979ff); /* Exemplo de degradê */
+    color: #fff;
+  }
+  
+  .title_react {
+    font-size: 80px;
+  }
+
+  .sobre_react {
+    font-size: 20px;
+  }

@@ -1,0 +1,45 @@
+.main-Java {
+    padding: 20px;
+    background-color: #dda8a8;
+    border-radius: 5px;
+  }
+  
+  
+  #JavaScript {
+    /* Definir altura ideal para a página */
+    min-height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+  
+    /* Estilo do fundo com degradê */
+    background: linear-gradient(to bottom, #abcdef, #654321); /* Exemplo de degradê */
+    color: #fff;
+  }
+
+ .title_java {
+  font-size: 80px;
+ }
+
+.div_contador {
+  text-align: center;
+}
+
+.button_contador {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 25px 45px;
+  border-radius: 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button_contador:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  cursor: pointer;
+}
+
+
